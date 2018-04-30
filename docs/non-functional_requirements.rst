@@ -13,7 +13,7 @@ The user interface should be as simple as possible. So there is no any fancy ele
 Confidentiality Policy
 ----------------------
 
-..note::
+.. note::
 	This policy is to explain how we expect the manager of this website to treat confidential information. we will unavoidably receive and handle some secret gene sample. We want to make sure that this information is well-protected.
 
 **What we won't do**

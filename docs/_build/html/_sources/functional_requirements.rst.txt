@@ -3,7 +3,8 @@ Functional Requirements
 
 Input
 -----
-..note::
+
+.. note::
 
 	A valid submitted gene expression file has the following format:
 	* It is a TAB-delimited, plain text file with three columns (see the samples below).
@@ -39,7 +40,9 @@ Input
 
 Output
 ------
-..note::
+
+.. note::
+
 	The web application displays a table and a scatter plot given a gene expression file.
 	The table contains a list of differentially expressed genes with the following format:
 
